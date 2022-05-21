@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Netlify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1a265721-c116-4ce7-b0fb-a5247c9a86e6/deploy-status)](https://app.netlify.com/sites/fantastic-starship-aa8947/deploys)
+
 ## Available Scripts
 
 In the project directory, you can run:
